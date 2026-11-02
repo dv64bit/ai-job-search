@@ -16,9 +16,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** UX/Product Design, Design Systems, User Research, Figma, Enterprise/B2B SaaS UX, AI product design, workflow design, design-to-dev handoff
+**Moderate match areas:** Frontend development (React.js, Tailwind CSS, shadcn/ui), Information Architecture, FigJam/Miro facilitation
+**Weak match areas:** [SKILLS_YOU_LACK - update as gaps surface in postings]
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -63,18 +63,21 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Deepen as a Product/UX Designer in enterprise SaaS and AI product UX (primary direction - not pivoting to a new track)
+- Grow design systems ownership and cross-functional workflow design scope
+- Keep leveraging the design+code edge (React/Tailwind/shadcn) rather than losing it to a pure-design role
+
+**Deal-breakers:**
+- Roles outside UX/Product Design scope entirely (auto-fail on Technical Skills Match)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
+- Tasks that energize: [YOUR_ENERGIZING_TASKS - ask directly]
 - Tasks that drain: [YOUR_DRAINING_TASKS]
 - Non-task factors: leadership style, department culture, company values, degree of autonomy
 
 **Life situation alignment:** Consider personal constraints:
 - **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
+- **Flexibility**: Based in Hyderabad, open to relocation within India for the right role
 - **Professional development**: [YOUR_GROWTH_PRIORITIES]
 
 ### 6. Salary Benchmark (Optional)

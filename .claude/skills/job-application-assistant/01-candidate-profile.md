@@ -4,31 +4,56 @@
 <!-- After running /setup, all sections will be filled with your actual information -->
 
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
+- **Name:** Darshan Verma
+- **Location:** Hyderabad, Telangana, India
+- **Phone:** +91 9925531392
+- **Email:** darshanverma2002@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dv64bit
+- **Portfolio:** https://dv64bit.framer.website/
 - **GitHub:** [YOUR_GITHUB_URL]
-- **Languages:** [YOUR_LANGUAGES with proficiency levels]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Languages:** English (fluent), Hindi (native), Gujarati (native)
+- **Status:** Employed - Product/UX Designer at Cognida.ai
+- **Constraints:** Based in Hyderabad; open to relocation within India for the right role
 
 ## Education
 
 | Degree | Period | Institution | Key Topics |
 |--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| BTech, Computer Science Engineering (Cloud Technology & Information Security) | 2020-2024 | Ajeenkya D Y Patil University, Pune | Cloud Technology, Information Security; CGPA 8.27, First with Distinction |
+| UI/UX Design with AI - Placement Guarantee Course | Dec 2024-May 2025 | Internshala Trainings | UX Research, Interaction Design, Prototyping, Figma, AI tools in design; 79% aggregate score |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+### Product Designer (UX Designer) - Cognida.ai (Jun 2025 - Present)
+Hyderabad
+- Designed end-to-end user experiences for AI-powered SaaS products used by enterprise clients
+- Led UX design for an AI-driven credit rating platform for Moody's, supporting authors, reviewers, and admins across the full report lifecycle
+- Designed complex workflows: report creation, review pipelines, approval flows, publishing systems for a platform used by ~2,000 internal users
+- Built and maintained the design system from scratch, including reusable components and design tokens
+- Collaborated with product managers, stakeholders, AI engineers, and developers to translate business requirements into intuitive interfaces
+- Delivered developer-ready design handoffs in Figma with clear documentation and component specifications
+- Additional projects: FastQlik, Clarience, Clopay, Zuno Assist, Cognida Design System
 
-<!-- Add more roles as needed -->
+### Customer Delight Executive - Zomato (Oct 2024 - May 2025)
+Hyderabad
+- Resolved customer issues through data-driven support processes and empathetic communication
+- Improved resolution efficiency and customer satisfaction through structured problem-solving
+- Gained deep understanding of real-world user pain points and service design challenges
+
+### Product Designer (Intern) - Wizzer (Jun 2024 - Aug 2024)
+Mumbai
+- Designed the Client Management dashboard for a fintech advisory platform
+- Redesigned data-heavy client listing workflows to improve usability and simplify information access for traders
+- Created user journeys, wireframes, and high-fidelity prototypes in Figma; conducted usability testing
+- Collaborated on the DSS trading platform with developers and PMs; built user flows for Retail Traders, Advisors, and Dealers
+
+### User Interface Designer - CoolAnt (Feb 2024 - Jul 2024)
+Noida
+- [DETAILS_NOT_IN_SOURCE_DOCS - add manually]
+
+### Intern - Ant Studio (Jul 2023 - Apr 2024)
+Delhi, India
+- [DETAILS_NOT_IN_SOURCE_DOCS - add manually]
 
 ## Independent Projects
 <!-- Projects outside of employment: freelance, open source, personal -->
@@ -36,23 +61,34 @@
 
 ## Technical Skills
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
+### Design
+- User Experience Design, User Interface Design, Design Systems, Interaction Design, Design Thinking
+- User Research, Journey Mapping, Information Architecture, Wireframing & Prototyping
+- Usability Testing, Heuristic Evaluation, A/B Testing, Design Handoff, Visual Design
+
+### Programming & Frontend
+- **React.js**: frontend fundamentals, Tailwind CSS, shadcn/ui - reads/writes enough code to spot design-to-dev handoff issues before they hit engineering
 
 ### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
+- Enterprise B2B SaaS UX, AI-powered product design, approval-heavy workflow design, design systems at scale
 
 ### Software & Tools
-- [TOOL_LIST]
+- Figma, FigJam, Miro, Framer, Webflow, Notion, Jira
+
+## Certifications
+- Internshala UI/UX Design with AI - Placement Guarantee Course (79% aggregate) - May 2025
+- The Complete 2022 Web Development Bootcamp
+- An Introduction to Cryptography
+- Unix/Linux and Shell Scripting - Crash Course
+- Effective Business Communication
+- Linux Network Administrator
 
 ## Publications
 <!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
+None.
 
 ## Awards
-- [AWARD] - [EVENT] ([YEAR])
+- First with Distinction, CGPA 8.27 - Ajeenkya D Y Patil University (2024)
 
 ## References
 - [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])

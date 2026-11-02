@@ -1,10 +1,7 @@
-# Job Application Assistant for [YOUR_NAME]
-
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
+# Job Application Assistant for Darshan Verma
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Darshan Verma, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,68 +10,61 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
+Full detail lives in `.claude/skills/job-application-assistant/01-candidate-profile.md`. Summary:
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** Darshan Verma
+- **Location:** Hyderabad, Telangana, India (open to relocation within India)
+- **Languages:** English (fluent), Hindi (native), Gujarati (native)
+- **Status:** Employed - Product/UX Designer at Cognida.ai
+- **LinkedIn headline:** "Product Designer | UX/UI Designer for SaaS & Digital Products | User Research, Design Systems, Figma"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **BTech, Computer Science Engineering (Cloud Technology & Information Security)** (2020-2024) - Ajeenkya D Y Patil University, Pune
+  - CGPA 8.27, First with Distinction
+- **UI/UX Design with AI - Placement Guarantee Course** (Dec 2024-May 2025) - Internshala Trainings (79% aggregate)
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **Product Designer (UX Designer)** (Jun 2025 - Present) - **Cognida.ai** (Hyderabad)
+  - Led UX for an AI-driven Moody's credit rating platform, ~2,000 internal users
+  - Built the design system from scratch
+- **Customer Delight Executive** (Oct 2024 - May 2025) - **Zomato** (Hyderabad)
+- **Product Designer (Intern)** (Jun 2024 - Aug 2024) - **Wizzer** (Mumbai)
+- **User Interface Designer** (Feb 2024 - Jul 2024) - **CoolAnt** (Noida)
+- **Intern** (Jul 2023 - Apr 2024) - **Ant Studio** (Delhi)
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** UX/Product Design, Design Systems, User Research, Interaction Design, Figma
+- **Secondary:** React.js, Tailwind CSS, shadcn/ui, frontend fundamentals
+- **Domain:** Enterprise B2B SaaS UX, AI-powered product design, approval-heavy workflow design
+- **Software:** Figma, FigJam, Miro, Framer, Webflow, Notion, Jira
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Internshala UI/UX Design with AI - Placement Guarantee Course** - completed May 2025 (79%)
+- Web Development Bootcamp, Cryptography, Unix/Linux Shell Scripting, Effective Business Communication, Linux Network Administrator
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+None.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- First with Distinction, CGPA 8.27 - Ajeenkya D Y Patil University (2024)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- No formal assessment on file; self-reported during /setup -->
+- **Collaborative, structured, cross-functional** - works best in structured process with clear roles, close ongoing collaboration with PM/eng/stakeholders
+- **Strengths:** Cross-functional translation, systems thinking, developer-handoff discipline (writes React/Tailwind/shadcn code)
+- **Growth areas:** [TBD - not yet captured]
+- **Thrives in:** Structured, cross-functional environments with iterative feedback loops
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+<!-- Not yet captured - ask directly -->
+- [TBD]
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Enterprise B2B SaaS / AI product companies: [EXAMPLE_COMPANIES - none specified, casting wide net]
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- Roles outside UX/Product Design scope entirely
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

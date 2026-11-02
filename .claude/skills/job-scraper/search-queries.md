@@ -4,67 +4,58 @@
 
 ## Search Sites
 
-Primary (Danish job market):
-- **jobindex.dk** - largest Danish job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: Denmark / your city)
-- **karriere.dk** - IDA's job board (engineering/science roles)
-- **jobfinder.dk** - another major Danish job board
-- **akademikernes.dk** - academic union job board
-
-Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+The built-in Danish portal tools (Jobindex, Jobbank, Jobdanmark, Jobnet) don't apply - candidate is India-based. Using instead:
+- **linkedin.com/jobs** - primary source, filter by India / Hyderabad
+- Google `site:` searches against LinkedIn and company career pages
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms (e.g. "Copenhagen", "Sjælland", "Hovedstaden") where the site supports it.
+Queries are grouped by priority. Combine with location terms ("Hyderabad", "India", or a specific target city) as needed.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Product/UX Designer (primary direction)
 
-These match your strongest and most desired career direction.
-
-```
-site:jobindex.dk "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:jobindex.dk "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+These match the strongest and most desired career direction.
 
 ```
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:jobindex.dk [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "Product Designer" Hyderabad
+site:linkedin.com/jobs "UX Designer" India
+site:linkedin.com/jobs "Product Designer" "design systems" India
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 2: Enterprise/AI B2B SaaS UX (domain expertise)
 
-Adjacent roles you could pivot into.
-
-```
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:jobindex.dk "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+These match domain expertise: enterprise, AI-driven, approval-heavy B2B workflows.
 
 ```
-site:jobindex.dk [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:jobindex.dk "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "Product Designer" "B2B SaaS" India
+site:linkedin.com/jobs "UX Designer" "AI product" India
+site:linkedin.com/jobs "Design Systems" Designer India
+```
+
+### Priority 3: Design + Code hybrid (adjacent roles)
+
+Roles that value the React/Tailwind/shadcn coding edge alongside design.
+
+```
+site:linkedin.com/jobs "Product Designer" React India
+site:linkedin.com/jobs "UX Engineer" India
+```
+
+### Priority 4: Broader Design / Consulting
+
+Wider net.
+
+```
+site:linkedin.com/jobs "UI/UX Designer" Hyderabad
+site:linkedin.com/jobs "Design Consultant" India
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+Candidate is Hyderabad-based, open to relocation within India. Deal-breaker: roles outside UX/Product Design scope entirely (not a location constraint).
+- Hyderabad and remote roles: PASS
+- Other major Indian cities (relocation): PASS, note relocation required
+- Outside India (no remote option): FLAG (discuss with user)
 
 ## Date Filter
 

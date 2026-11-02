@@ -106,11 +106,11 @@ Write 5-7 lines that function as an "elevator pitch": a concise, compelling intr
 **Create 2-3 profile statement templates for your main role types:**
 
 <!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Product/UX Designer roles (enterprise SaaS, AI products):**
+> Product Designer with a Computer Science background, building UX for AI-powered B2B products at Cognida.ai: credit rating systems, healthcare plan drafting tools, procurement portals. Led end-to-end UX for an AI-driven Moody's credit rating platform spanning four user roles and the full report lifecycle, used by ~2,000 internal users, and built its design system from zero. Specializes in taking approval-heavy enterprise workflows and making them navigable without a manual, and delivering Figma handoffs developers don't have to interpret. Writes code (React, Tailwind CSS, shadcn/ui), so knows where a design breaks before it hits engineering.
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For Design Systems / UX for AI products roles:**
+> [DRAFT_AFTER_MORE_APPLICATIONS - reframe the above toward design-systems-first framing once a relevant posting appears]
 
 ### Core Competencies / Skills Section (Best Practice)
 Reorder and emphasize based on the role. Use bold category labels.

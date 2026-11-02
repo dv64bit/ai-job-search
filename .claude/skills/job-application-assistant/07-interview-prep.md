@@ -10,28 +10,49 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+<!-- These are populated by /setup from your actual experience. STAR stubs below need S/T/A/R detail filled in manually. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+## STAR Candidates (Complete Manually)
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### Moody's AI credit rating platform UX (Cognida.ai)
+**Source:** CV/LinkedIn - Cognida.ai, Jun 2025-Present
+**What happened:** Led UX for an AI-driven credit rating platform for Moody's, spanning authors, reviewers, and admins across the full report lifecycle (creation, review, approval, publishing), used by ~2,000 internal users.
+**Why it matters:** Answers questions on complex/enterprise workflow design, designing for multiple user roles, working with AI engineers, scale.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### Design system built from zero (Cognida.ai)
+**Source:** CV/LinkedIn - Cognida.ai
+**What happened:** Built and maintained the entire design system from scratch: reusable components, design tokens, consistency/scalability across products.
+**Why it matters:** Answers questions on design systems ownership, working without existing infrastructure, cross-team consistency.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Zomato: support role to UX pivot
+**Source:** CV/LinkedIn - Zomato, Oct 2024-May 2025
+**What happened:** Worked Customer Delight Executive resolving customer issues through data-driven support; used it to build understanding of real-world user pain points and service design challenges.
+**Why it matters:** Answers "why did you take a non-design role", career gap/detour questions, user empathy grounding.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Wizzer trading platform dashboard redesign
+**Source:** CV/LinkedIn - Wizzer, Jun-Aug 2024
+**What happened:** Redesigned data-heavy client listing workflows for a fintech advisory/trading platform (DSS); built user flows for Retail Traders, Advisors, Dealers; usability tested and iterated.
+**Why it matters:** Answers questions on data-heavy UI design, fintech domain, multi-persona flows.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
