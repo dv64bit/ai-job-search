@@ -61,8 +61,8 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 0-39 | Fundamental mismatch |
 
 **Strong match areas:** UX/Product Design, Design Systems, User Research, Figma, Enterprise/B2B SaaS UX, AI product design, workflow design, design-to-dev handoff
-**Moderate match areas:** Frontend development (React.js, Tailwind CSS, shadcn/ui), Information Architecture, FigJam/Miro facilitation
-**Weak match areas:** [SKILLS_YOU_LACK - update as gaps surface in postings]
+**Moderate match areas:** Design engineering (React 18/19, TypeScript, Tailwind CSS, Vite; AI-assisted via Claude Code), Information Architecture, FigJam/Miro facilitation
+**Weak match areas:** Accessibility/WCAG (never audited), shipped-product metrics (none yet), design leadership/mentorship/hiring, mobile/native or responsive design systems, formal design-QA process
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for? Match on the function and nature of the work performed, not the literal job title - a "Data Consultant" and a "Data Scientist" role can be functionally identical.
@@ -109,7 +109,7 @@ Does this role advance career goals and contain tasks that energize?
 **Career goals:**
 - Deepen as a Product/UX Designer in enterprise SaaS and AI product UX (primary direction - not pivoting to a new track)
 - Grow design systems ownership and cross-functional workflow design scope
-- Keep leveraging the design+code edge (React/Tailwind/shadcn) rather than losing it to a pure-design role
+- Keep leveraging the design+code edge (React/TypeScript/Tailwind) rather than losing it to a pure-design role
 
 **Deal-breakers:**
 - Roles outside UX/Product Design scope entirely (auto-fail on Technical Skills Match)

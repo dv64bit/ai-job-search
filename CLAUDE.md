@@ -14,11 +14,11 @@ Full detail lives in `.claude/skills/job-application-assistant/01-candidate-prof
 
 ### Identity
 - **Name:** Darshan Verma
-- **Location:** Hyderabad, Telangana, India (open to relocation within India)
+- **Location:** Hyderabad, Telangana, India (open to relocation anywhere; preference: Hyderabad, Bangalore, Ahmedabad, Pune)
 - **Languages:**
   | Language | Level |
   |----------|-------|
-  | English | Fluent |
+  | English | Professional working proficiency |
   | Hindi | Native |
   | Gujarati | Native |
   <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
@@ -28,43 +28,50 @@ Full detail lives in `.claude/skills/job-application-assistant/01-candidate-prof
   04-job-evaluation.md's Language Gate. -->
 - **CV language:** English
 
-- **Status:** Employed - Product/UX Designer at Cognida.ai
+- **Status:** Employed - UX Designer at Cognida AI
 - **LinkedIn headline:** "Product Designer | UX/UI Designer for SaaS & Digital Products | User Research, Design Systems, Figma"
+- **Target roles:** Product Designer; UX Designer; Product Designer (Design Systems) - IC track
+- **Career switcher:** CS / development -> product design (self-funded bootcamp while at Zomato, Oct 2024 - May 2025)
 
 ### Education
-- **BTech, Computer Science Engineering (Cloud Technology & Information Security)** (2020-2024) - Ajeenkya D Y Patil University, Pune
-  - CGPA 8.27, First with Distinction
-- **UI/UX Design with AI - Placement Guarantee Course** (Dec 2024-May 2025) - Internshala Trainings (79% aggregate)
+- **B.E., Computer Science Engineering** (Dec 2020 - May 2024) - Ajeenkya DY Patil University, Pune
+  - CGPA 8.27/10. Specialization in Cloud Technology and Information Security (degree only, not a working skill)
+- **UI/UX Design with AI - 6-month Placement Guarantee Course** (Dec 2024 - May 2025) - Internshala Trainings
 
 ### Professional Experience
-- **Product Designer (UX Designer)** (Jun 2025 - Present) - **Cognida.ai** (Hyderabad)
-  - Led UX for an AI-driven Moody's credit rating platform, ~2,000 internal users
-  - Built the design system from scratch
-- **Customer Delight Executive** (Oct 2024 - May 2025) - **Zomato** (Hyderabad)
+- **UX Designer** (Jun 2025 - Present) - **Cognida AI** (Hyderabad) - one of two designers, carries most hands-on design work
+  - Moody's credit rating platform: full report lifecycle (primitives, block templates, authoring, review/approval, publishing); targeted at 2,000+ users, still rolling out
+  - Marvell Technology P2P Hub: ~25 screens designed and front-end built (React 18 + TypeScript + Tailwind)
+  - InfraWatch AWS cost dashboard: 20 -> 5 capability MVP scope, 12 screens, "Space Org Console" 191-token design system, coded prototype
+  - CogniVault internal knowledge platform: end-to-end design owner, design phase complete
+  - Established Cognida's first design system (assembled from vetted open-source primitives, restyled)
+- **Customer Delight Executive** (Oct 2024 - May 2025) - **Zomato** (Hyderabad) - deliberate career-transition role
 - **Product Designer (Intern)** (Jun 2024 - Aug 2024) - **Wizzer** (Mumbai)
-- **User Interface Designer** (Feb 2024 - Jul 2024) - **CoolAnt** (Noida)
-- **Intern** (Jul 2023 - Apr 2024) - **Ant Studio** (Delhi)
+- **Ant Studio, incl. child company CoolAnt** (Jul 2023 - Jul 2024) - Delhi / Noida - Intern, then UI Designer at CoolAnt (not on master resume; CV only if asked)
 
 ### Technical Skills
-- **Primary:** UX/Product Design, Design Systems, User Research, Interaction Design, Figma
-- **Secondary:** React.js, Tailwind CSS, shadcn/ui, frontend fundamentals
-- **Domain:** Enterprise B2B SaaS UX, AI-powered product design, approval-heavy workflow design
+- **Primary:** Product/UX/UI Design, Design Systems, User Research, Usability Testing, Interaction Design, Information Architecture, User Flows, Prototyping, Developer Handoff
+- **Design engineering:** React 18/19, TypeScript, Tailwind CSS (v4), Vite, react-router (AI-assisted - never pitch as software engineer)
+- **AI in workflow:** Claude Code, Figma Make, ChatGPT, v0, Lovable
+- **Domain:** Enterprise AI SaaS, document/report lifecycle workflows, enterprise web design systems, design-to-code
 - **Software:** Figma, FigJam, Miro, Framer, Webflow, Notion, Jira
 
 ### Certifications
-- **Internshala UI/UX Design with AI - Placement Guarantee Course** - completed May 2025 (79%)
-- Web Development Bootcamp, Cryptography, Unix/Linux Shell Scripting, Effective Business Communication, Linux Network Administrator
+- **UI/UX Design with AI** - Internshala Trainings, May 2025 (cert no. 3vdfkjqfomb, [verify](https://trainings.internshala.com/s/v/3657877/28faa386))
 
 ### Publications
 None.
 
 ### Awards
-- First with Distinction, CGPA 8.27 - Ajeenkya D Y Patil University (2024)
+None.
+
+### Never overclaim
+See Known Gaps + Approved Framings in `01-candidate-profile.md`. Key rules: no shipped-product metrics exist; no accessibility claims; no component counts; no leadership/mentorship.
 
 ### Behavioral Profile
 <!-- No formal assessment on file; self-reported during /setup -->
 - **Collaborative, structured, cross-functional** - works best in structured process with clear roles, close ongoing collaboration with PM/eng/stakeholders
-- **Strengths:** Cross-functional translation, systems thinking, developer-handoff discipline (writes React/Tailwind/shadcn code)
+- **Strengths:** Cross-functional translation, systems thinking, developer-handoff discipline (prototypes React/TypeScript/Tailwind front-ends)
 - **Growth areas:** [TBD - not yet captured]
 - **Thrives in:** Structured, cross-functional environments with iterative feedback loops
 

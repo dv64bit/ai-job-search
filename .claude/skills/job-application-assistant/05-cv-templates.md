@@ -138,10 +138,10 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 <!-- SETUP: These are populated based on your background -->
 **For Product/UX Designer roles (enterprise SaaS, AI products):**
-> Product Designer with a Computer Science background, building UX for AI-powered B2B products at Cognida.ai: credit rating systems, healthcare plan drafting tools, procurement portals. Led end-to-end UX for an AI-driven Moody's credit rating platform spanning four user roles and the full report lifecycle, used by ~2,000 internal users, and built its design system from zero. Specializes in taking approval-heavy enterprise workflows and making them navigable without a manual, and delivering Figma handoffs developers don't have to interpret. Writes code (React, Tailwind CSS, shadcn/ui), so knows where a design breaks before it hits engineering.
+> Product Designer with a Computer Science Engineering background, working on AI-driven enterprise SaaS for clients including Moody's and Marvell Technology. Primary hands-on designer at Cognida AI, owning discovery, information architecture, user flows, UI, and developer handoff, and founder of the company's first design system. Designs the full life cycle of approval-heavy enterprise workflows (authoring, review, approval, publishing) and builds React and Tailwind prototypes of own designs so stakeholders test real flows and engineers get an unambiguous handoff.
 
 **For Design Systems / UX for AI products roles:**
-> [DRAFT_AFTER_MORE_APPLICATIONS - reframe the above toward design-systems-first framing once a relevant posting appears]
+> Product Designer focused on design systems for enterprise AI SaaS. Established Cognida AI's first design system - design language, tokens, and a component library assembled from vetted open-source primitives and restyled to the company's visual language - used across active product teams. Built Space Org Console, a 191-token system with dark, light, and print themes from one source and an audit script that blocks raw hex and off-scale type in code. Computer Science Engineering background, so systems are designed to be practical to build, not just to look at.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

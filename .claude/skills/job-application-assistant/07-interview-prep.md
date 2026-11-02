@@ -18,9 +18,9 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## STAR Candidates (Complete Manually)
 
-### Moody's AI credit rating platform UX (Cognida.ai)
-**Source:** CV/LinkedIn - Cognida.ai, Jun 2025-Present
-**What happened:** Led UX for an AI-driven credit rating platform for Moody's, spanning authors, reviewers, and admins across the full report lifecycle (creation, review, approval, publishing), used by ~2,000 internal users.
+### Moody's credit rating platform (Cognida AI)
+**Source:** Resume Project/career_profile.md - Cognida AI, Jun 2025-Present
+**What happened:** Report lifecycle was scattered: authors drafted in MS Word, reviews/approvals moved over email, nothing tracked in one place. Design team was first point of contact for stakeholders; gathered requirements and pain points, then designed one platform in three pieces - design-system primitives -> reusable blocks, block-based report templates, and an authoring micro-app (write -> reviewer comments -> approve -> publish to Moody's website). Produced screens, user flows, IA, and site maps that development built from. Targeted at 2,000+ users; still rolling out - NO outcome metrics, say so honestly.
 **Why it matters:** Answers questions on complex/enterprise workflow design, designing for multiple user roles, working with AI engineers, scale.
 **S/T/A/R stub:**
 - Situation:
@@ -28,10 +28,40 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 - Action:
 - Result:
 
-### Design system built from zero (Cognida.ai)
-**Source:** CV/LinkedIn - Cognida.ai
-**What happened:** Built and maintained the entire design system from scratch: reusable components, design tokens, consistency/scalability across products.
+### Cognida's first design system (Cognida AI)
+**Source:** Resume Project/career_profile.md - Cognida AI
+**What happened:** Company had no design system. Defined the design language and tokens in Figma, then assembled components from vetted open-source primitives across multiple libraries, restyled to the org's language (not drawn from zero - be ready to say so). Web-only; adopted across active product teams. Don't quote a component count.
 **Why it matters:** Answers questions on design systems ownership, working without existing infrastructure, cross-team consistency.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### Marvell P2P Hub: design + coded front-end (Cognida AI)
+**Source:** Resume Project/career_profile.md
+**What happened:** Procurement request tracking split across Oracle EBS, Beeline, and Conga. Designed full app and user flow from client requirements, then built ~25-screen front-end (React 18 + TypeScript + Tailwind, AI-assisted with Claude Code) so stakeholders walked the real flow; handed codebase to engineering for backend integration.
+**Why it matters:** Design-to-code, consolidation of fragmented tools, stakeholder alignment through working prototypes.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### InfraWatch: scoping 20 capabilities to a 5-capability MVP
+**Source:** Resume Project/career_profile.md
+**What happened:** Cut a 20-capability multi-cloud BRD to a 5-capability MVP around one verifiable loop (connect AWS, understand spend, find opportunities, understand why); tradeoffs recorded as a decision record. 12 screens with empty/loading/error/insufficient-data states first-class. Built Space Org Console (191 tokens, 3 themes, build-failing audit script). Prototype only, never measured.
+**Why it matters:** Prioritization, product thinking, scope tradeoffs, design-system craft.
+**S/T/A/R stub:**
+- Situation:
+- Task:
+- Action:
+- Result:
+
+### CogniVault: pivoting after stakeholder review
+**Source:** Resume Project/career_profile.md
+**What happened:** Project-management platform re-scoped into company-wide knowledge repository. 5 personas -> 3 + config surface; 14-tab detail view -> compliance-first structure. Leadership dashboard redesigned from stat wall to per-project Portfolio Command Center after feedback that org averages weren't decision-useful. 4 rounds of usability revision on live prototype (phase-scoped compliance checklists). Design phase only.
+**Why it matters:** Handling feedback/pivots, simplification, iterative usability work.
 **S/T/A/R stub:**
 - Situation:
 - Task:
@@ -40,7 +70,7 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ### Zomato: support role to UX pivot
 **Source:** CV/LinkedIn - Zomato, Oct 2024-May 2025
-**What happened:** Worked Customer Delight Executive resolving customer issues through data-driven support; used it to build understanding of real-world user pain points and service design challenges.
+**What happened:** Deliberate career-switch role: self-funded a 6-month Internshala UI/UX bootcamp while working full-time in customer operations; moved into full-time design at Cognida within a month of finishing. Built user-empathy foundation from direct support work.
 **Why it matters:** Answers "why did you take a non-design role", career gap/detour questions, user empathy grounding.
 **S/T/A/R stub:**
 - Situation:
@@ -50,7 +80,7 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ### Wizzer trading platform dashboard redesign
 **Source:** CV/LinkedIn - Wizzer, Jun-Aug 2024
-**What happened:** Redesigned data-heavy client listing workflows for a fintech advisory/trading platform (DSS); built user flows for Retail Traders, Advisors, Dealers; usability tested and iterated.
+**What happened:** Designed Client Management dashboard for a fintech advisory platform - user journeys, wireframes, high-fidelity Figma prototypes; ran usability tests and reworked task flows with QA and developers. Ended before launch, no outcome data.
 **Why it matters:** Answers questions on data-heavy UI design, fintech domain, multi-persona flows.
 **S/T/A/R stub:**
 - Situation:

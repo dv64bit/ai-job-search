@@ -44,7 +44,7 @@ site:linkedin.com/jobs "Design Systems" Designer India
 
 ### Priority 3: Design + Code hybrid (adjacent roles)
 
-Roles that value the React/Tailwind/shadcn coding edge alongside design.
+Roles that value the React/TypeScript/Tailwind design-engineering edge alongside design.
 
 ```
 site:linkedin.com/jobs "Product Designer" React India
@@ -62,10 +62,11 @@ site:linkedin.com/jobs "Design Consultant" India
 
 ## Location Filter
 
-Candidate is Hyderabad-based, open to relocation within India. Deal-breaker: roles outside UX/Product Design scope entirely (not a location constraint).
+Candidate is Hyderabad-based, open to relocation anywhere; preference order Hyderabad, Bangalore, Ahmedabad, Pune. Deal-breaker: roles outside UX/Product Design scope entirely (not a location constraint).
 - Hyderabad and remote roles: PASS
-- Other major Indian cities (relocation): PASS, note relocation required
-- Outside India (no remote option): FLAG (discuss with user)
+- Bangalore, Ahmedabad, Pune: PASS, note relocation (preferred cities)
+- Other Indian cities: PASS, note relocation required
+- Outside India (no remote option): FLAG (discuss with user - work authorization is India only)
 
 ## Language Filter
 
