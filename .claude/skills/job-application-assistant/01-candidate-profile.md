@@ -1,3 +1,7 @@
+---
+framework_version: 1.1.1
+---
+
 # Candidate Profile
 
 <!-- SETUP: This file is populated by running /setup -->
@@ -11,9 +15,20 @@
 - **LinkedIn:** https://www.linkedin.com/in/dv64bit
 - **Portfolio:** https://dv64bit.framer.website/
 - **GitHub:** [YOUR_GITHUB_URL]
-- **Languages:** English (fluent), Hindi (native), Gujarati (native)
 - **Status:** Employed - Product/UX Designer at Cognida.ai
 - **Constraints:** Based in Hyderabad; open to relocation within India for the right role
+
+### Languages
+<!-- Every language you can work in professionally, with your honest level. Used by the
+Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
+generation. Omit any language you don't actually work in - an undeclared language is treated as
+a hard no, not a gap to smooth over. -->
+
+| Language | Level | Notes |
+|----------|-------|-------|
+| English | Fluent | |
+| Hindi | Native | |
+| Gujarati | Native | |
 
 ## Education
 
